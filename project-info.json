@@ -1,0 +1,7 @@
+{
+    "title": "DashGo",
+    "description": "O Projet Dashgo conta com um dashboard visual com os dados cadastrados do cliente , portanto sendo um ferramenta visual poderosa , portanto sua criação facilita demais o dia a dia das empresas.",
+    "techStack": ["React", "Next", "TypeScript", "Node", "Chackra", "Zod","ReactQuery"],
+    "services": ["Visualização de dados","Dashboard dos dados do usuário"],
+    "about": "O DashGo é um dashboard interativo e dinâmico desenvolvido para facilitar a visualização e gestão de dados empresariais. Utilizando React, Next.js, TypeScript e Node.js, a plataforma oferece uma interface moderna e responsiva, permitindo análise de dados em tempo real. Com o uso de Chakra UI, Zod e React Query, garante uma experiência fluida, segura e otimizada. Ideal para empresas que buscam eficiência e automação, o DashGo transforma informações complexas em insights estratégicos, melhorando a tomada de decisão"
+}
